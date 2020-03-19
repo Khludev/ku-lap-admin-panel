@@ -1,6 +1,6 @@
 {
-    "name": "wikichua/simplecontrolpanel",
-    "description": "A simple admin control panel for Laravel 6. Forked from kejodion/laravel-admin-panel",
+    "name": " Khludev/ku-lap-admin-panel ",
+    "description": "A ku-lap-admin-panel for Laravel 6. Forked from wikichua/simplecontrolpanel",
     "license": "MIT",
     "authors": [
         {
